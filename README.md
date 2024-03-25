@@ -1,7 +1,7 @@
 # RL-Brawlhalla
 (wip) Reinforcement Learning Agent trained to play the game Brawlhalla
 
-**THIS IS AN OFFLINE EXECUTED PROJECT**
+# **----- THIS IS AN OFFLINE EXECUTED PROJECT -----**
 
 ideally we figure out how to extract game variables out of the game and manage to monitor them. Next, we can start with Reinforcement Learning.
 
