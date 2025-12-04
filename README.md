@@ -10,6 +10,9 @@ steps
 - Define Actions
 - Define Rewards
 
+### Environment
+To train the agent a customisable environment is key. Ideally we would be able to control the environment per frame. This might be accomplished using cheat engine (CE). Using CE we can freeze the positions memory pointers of both players to learn movement frame by frame.
+
 ### States
 for states i was thinking about taking p1 coordinates and p2 coordinates and return the vector between them. also the map position. And an array with platform positions which will be empty if there are no platforms. so it would look something like
 
